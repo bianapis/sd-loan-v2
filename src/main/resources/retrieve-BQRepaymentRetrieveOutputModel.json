@@ -1,0 +1,42 @@
+{
+  "repaymentRetrieveActionTaskReference" : "RRATR794083",
+  "repaymentInstanceReport" : {
+    "repaymentInstanceReportParameters" : "repaymentInstanceReportParameters",
+    "repaymentInstanceReportType" : "repaymentInstanceReportType",
+    "repaymentInstanceReport" : {},
+    "repaymentInstanceReportRecord" : {}
+  },
+  "repaymentRetrieveActionResponse" : "repaymentRetrieveActionResponse",
+  "loanFulfillmentArrangementInstanceRecord" : {
+    "productInstanceReference" : "727549",
+    "repaymentType" : "repaymentType",
+    "restrictionOptionSetting" : "restrictionOptionSetting",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "entitlementOptionSetting" : "entitlementOptionSetting",
+    "restrictionOptionDefinition" : "restrictionOptionDefinition",
+    "loanOutstandingBalance" : "loanOutstandingBalance",
+    "customerReference" : "745904",
+    "loanAccessTerms" : "loanAccessTerms",
+    "entitlementOptionDefinition" : "entitlementOptionDefinition",
+    "partyReference" : "756788",
+    "loanNumber" : "loanNumber"
+  },
+  "repaymentInstanceRecord" : {
+    "repaymentTransactionPayerProductInstanceReference" : "703232",
+    "repaymentTransactionCurrency" : "USD",
+    "repaymentTransactionType" : "repaymentTransactionType",
+    "repaymentTransactionAmount" : "USD 250",
+    "repaymentTransactionPayerReference" : "792180",
+    "repaymentTransactionPayerBankReference" : "743166",
+    "repaymentTransactionValueDate" : "09-22-2018"
+  },
+  "repaymentRetrieveActionTaskRecord" : {},
+  "repaymentInstanceAnalysis" : {
+    "repaymentInstanceAnalysisReportType" : "repaymentInstanceAnalysisReportType",
+    "repaymentInstanceAnalysisRecord" : {},
+    "repaymentInstanceAnalysisReport" : {},
+    "repaymentInstanceAnalysisParameters" : "repaymentInstanceAnalysisParameters"
+  }
+}

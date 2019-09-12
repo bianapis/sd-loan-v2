@@ -1,0 +1,57 @@
+{
+  "loanFulfillmentArrangementInstanceReportRecord" : {
+    "loanFulfillmentArrangementInstanceReportData" : "loanFulfillmentArrangementInstanceReportData",
+    "loanFulfillmentArrangementInstanceReportType" : "loanFulfillmentArrangementInstanceReportType",
+    "loanFulfillmentArrangementInstanceReport" : {}
+  },
+  "loanFulfillmentArrangementRetrieveActionResponse" : "loanFulfillmentArrangementRetrieveActionResponse",
+  "loanFulfillmentArrangementRetrieveActionTaskRecord" : {},
+  "loanFulfillmentArrangementRetrieveActionTaskReference" : "LFARATR701382",
+  "loanFulfillmentArrangementInstanceRecord" : {
+    "associations" : {
+      "associationReference" : "792805",
+      "associationType" : "associationType",
+      "associationObligationEntitlement" : "associationObligationEntitlement"
+    },
+    "taxReference" : "703473",
+    "restrictionOptionSetting" : "restrictionOptionSetting",
+    "loanType" : "loanType",
+    "insuranceReference" : "714778",
+    "loanAccessTerms" : "loanAccessTerms",
+    "interestType" : "interestType",
+    "customerCreditAssessmentReference" : "728498",
+    "loanApplicableRate" : "loanApplicableRate",
+    "productInstanceReference" : "767575",
+    "repaymentType" : "repaymentType",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "customerReference" : "702653",
+    "loanRateType" : "loanRateType",
+    "loanRepaymentSchedule" : "loanRepaymentSchedule",
+    "loanCurrency" : "USD",
+    "customerAgreementReference" : "765420",
+    "collateralAllocation" : "collateralAllocation",
+    "restrictionOptionDefinition" : "restrictionOptionDefinition",
+    "stagedRepaymentStatement" : "stagedRepaymentStatement",
+    "interestAccrualMethod" : "interestAccrualMethod",
+    "partyReference" : "777160",
+    "collateralReference" : "723995",
+    "customerCommentary" : "customerCommentary",
+    "loanAmount" : "USD 250",
+    "bankBranchLocationReference" : "709602",
+    "entitlementOptionSetting" : "entitlementOptionSetting",
+    "loanOutstandingBalance" : "loanOutstandingBalance",
+    "bankAccountingUnitReference" : "783378",
+    "loanMaturityDate" : "09-22-2018",
+    "entitlementOptionDefinition" : "entitlementOptionDefinition",
+    "delinquencyCollectionReference" : "732198",
+    "loanOriginationDate" : "09-22-2018",
+    "loanNumber" : "loanNumber"
+  },
+  "loanFulfillmentArrangementInstanceAnalysis" : {
+    "loanFulfillmentArrangementInstanceAnalysisReport" : {},
+    "loanFulfillmentArrangementInstanceAnalysisData" : "loanFulfillmentArrangementInstanceAnalysisData",
+    "loanFulfillmentArrangementInstanceAnalysisReportType" : "loanFulfillmentArrangementInstanceAnalysisReportType"
+  }
+}

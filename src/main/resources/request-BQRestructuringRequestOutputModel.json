@@ -1,0 +1,11 @@
+{
+  "restructuringRequestActionTaskRecord" : {},
+  "restructuringRequestRecordReference" : "RRRR795298",
+  "restructuringRequestActionTaskReference" : "RRATR706872",
+  "restructuringInstanceRecord" : {
+    "restructuringEvaluation" : "restructuringEvaluation",
+    "restructuringWriteDown" : "restructuringWriteDown",
+    "restructuringTask" : "restructuringTask"
+  },
+  "requestResponseRecord" : {}
+}

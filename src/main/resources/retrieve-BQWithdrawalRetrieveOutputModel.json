@@ -1,0 +1,48 @@
+{
+  "withdrawalInstanceAnalysis" : {
+    "withdrawalInstanceAnalysisParameters" : "withdrawalInstanceAnalysisParameters",
+    "withdrawalInstanceAnalysisReportType" : "withdrawalInstanceAnalysisReportType",
+    "withdrawalInstanceAnalysisReport" : {},
+    "withdrawalInstanceAnalysisRecord" : {}
+  },
+  "withdrawalRetrieveActionResponse" : "withdrawalRetrieveActionResponse",
+  "withdrawalRetrieveActionTaskRecord" : {},
+  "withdrawalInstanceReport" : {
+    "withdrawalInstanceReportType" : "withdrawalInstanceReportType",
+    "withdrawalInstanceReport" : {},
+    "withdrawalInstanceReportParameters" : "withdrawalInstanceReportParameters",
+    "withdrawalInstanceReportRecord" : {}
+  },
+  "withdrawalInstanceRecord" : {
+    "paymentTransaction" : {
+      "paymentTransactionPayeeReference" : "773137",
+      "paymentTransactionPayeeBankReference" : "763474",
+      "paymentTransactionFeeType" : "paymentTransactionFeeType",
+      "paymentTransactionFeeCharge" : "USD 250",
+      "paymentTransactionPaymentPurpose" : "paymentTransactionPaymentPurpose",
+      "paymentTransactionStatus" : "paymentTransactionStatus",
+      "paymentTransactionPayeeAccountReference" : "773038",
+      "paymentTransactionType" : "paymentTransactionType",
+      "paymentTransactionDate" : "09-22-2018",
+      "paymentTransactionAmount" : "USD 250",
+      "paymentTransactionPaymentMechanism" : "paymentTransactionPaymentMechanism",
+      "paymentTransactionBankBranchLocationReference" : "730883"
+    }
+  },
+  "loanFulfillmentArrangementInstanceRecord" : {
+    "productInstanceReference" : "781051",
+    "restrictionOptionSetting" : "restrictionOptionSetting",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "entitlementOptionSetting" : "entitlementOptionSetting",
+    "restrictionOptionDefinition" : "restrictionOptionDefinition",
+    "loanOutstandingBalance" : "loanOutstandingBalance",
+    "customerReference" : "780890",
+    "loanAccessTerms" : "loanAccessTerms",
+    "entitlementOptionDefinition" : "entitlementOptionDefinition",
+    "partyReference" : "727123",
+    "loanNumber" : "loanNumber"
+  },
+  "withdrawalRetrieveActionTaskReference" : "WRATR736353"
+}

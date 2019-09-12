@@ -1,0 +1,15 @@
+{
+  "loanFulfillmentArrangementInstanceStatus" : "loanFulfillmentArrangementInstanceStatus",
+  "loanFulfillmentArrangementInstanceReference" : "LFAIR770897",
+  "loanFulfillmentArrangementInitiateActionRecord" : {},
+  "loanFulfillmentArrangementInstanceRecord" : {
+    "productInstanceReference" : "759696",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "loanOutstandingBalance" : "loanOutstandingBalance",
+    "stagedRepaymentStatement" : "stagedRepaymentStatement",
+    "customerCommentary" : "customerCommentary"
+  },
+  "loanFulfillmentArrangementInitiateActionReference" : "LFAIAR797889"
+}

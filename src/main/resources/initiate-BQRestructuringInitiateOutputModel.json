@@ -1,0 +1,19 @@
+{
+  "restructuringInstanceStatus" : "restructuringInstanceStatus",
+  "restructuringInstanceReference" : "RIR724956",
+  "restructuringInitiateActionReference" : "RIAR762232",
+  "restructuringInitiateActionRecord" : {},
+  "loanFulfillmentArrangementInstanceRecord" : {
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "loanOutstandingBalance" : "loanOutstandingBalance",
+    "stagedRepaymentStatement" : "stagedRepaymentStatement",
+    "customerCommentary" : "customerCommentary"
+  },
+  "restructuringInstanceRecord" : {
+    "restructuringEvaluation" : "restructuringEvaluation",
+    "restructuringWriteDown" : "restructuringWriteDown",
+    "restructuringTask" : "restructuringTask"
+  }
+}

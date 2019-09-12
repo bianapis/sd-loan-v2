@@ -1,0 +1,9 @@
+{
+  "withdrawalRequestActionTaskReference" : "WRATR774752",
+  "withdrawalInstanceRecord" : {
+    "paymentTransactionStatus" : "paymentTransactionStatus"
+  },
+  "withdrawalRequestActionTaskRecord" : {},
+  "withdrawalRequestRecordReference" : "WRRR715321",
+  "requestResponseRecord" : {}
+}

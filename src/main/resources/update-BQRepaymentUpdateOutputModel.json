@@ -1,0 +1,20 @@
+{
+  "updateResponseRecord" : {},
+  "loanFulfillmentArrangementInstanceRecord" : {
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "loanOutstandingBalance" : "loanOutstandingBalance"
+  },
+  "repaymentInstanceRecord" : {
+    "repaymentTransactionPayerProductInstanceReference" : "777488",
+    "repaymentTransactionCurrency" : "USD",
+    "repaymentTransactionType" : "repaymentTransactionType",
+    "repaymentTransactionAmount" : "USD 250",
+    "repaymentTransactionPayerReference" : "709925",
+    "repaymentTransactionPayerBankReference" : "792629",
+    "repaymentTransactionValueDate" : "09-22-2018"
+  },
+  "repaymentUpdateActionTaskRecord" : {},
+  "repaymentUpdateActionTaskReference" : "RUATR755273"
+}

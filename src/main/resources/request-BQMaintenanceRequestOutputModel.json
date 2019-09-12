@@ -1,0 +1,15 @@
+{
+  "maintenanceRequestActionTaskRecord" : {},
+  "maintenanceRequestActionTaskReference" : "MRATR777719",
+  "maintenanceInstanceRecord" : {
+    "maintenanceReportType" : {
+      "penalties" : "penalties",
+      "loanFees" : "loanFees",
+      "collateralValuation" : "collateralValuation",
+      "loanFeeType" : "loanFeeType",
+      "loanTaxReport" : {}
+    }
+  },
+  "maintenanceRequestRecordReference" : "MRRR742887",
+  "requestResponseRecord" : {}
+}

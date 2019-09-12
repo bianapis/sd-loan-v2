@@ -1,0 +1,52 @@
+{
+  "restructuringUpdateActionTaskRecord" : {},
+  "restructuringUpdateActionTaskReference" : "RUATR706987",
+  "updateResponseRecord" : {},
+  "loanFulfillmentArrangementInstanceRecord" : {
+    "associations" : {
+      "associationReference" : "772722",
+      "associationType" : "associationType",
+      "associationObligationEntitlement" : "associationObligationEntitlement"
+    },
+    "taxReference" : "754613",
+    "restrictionOptionSetting" : "restrictionOptionSetting",
+    "loanType" : "loanType",
+    "insuranceReference" : "745626",
+    "loanAccessTerms" : "loanAccessTerms",
+    "interestType" : "interestType",
+    "customerCreditAssessmentReference" : "747063",
+    "loanApplicableRate" : "loanApplicableRate",
+    "productInstanceReference" : "741362",
+    "repaymentType" : "repaymentType",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "customerReference" : "774028",
+    "loanRateType" : "loanRateType",
+    "loanRepaymentSchedule" : "loanRepaymentSchedule",
+    "loanCurrency" : "USD",
+    "customerAgreementReference" : "713570",
+    "collateralAllocation" : "collateralAllocation",
+    "restrictionOptionDefinition" : "restrictionOptionDefinition",
+    "stagedRepaymentStatement" : "stagedRepaymentStatement",
+    "interestAccrualMethod" : "interestAccrualMethod",
+    "partyReference" : "748809",
+    "collateralReference" : "790248",
+    "customerCommentary" : "customerCommentary",
+    "loanAmount" : "USD 250",
+    "bankBranchLocationReference" : "782004",
+    "entitlementOptionSetting" : "entitlementOptionSetting",
+    "loanOutstandingBalance" : "loanOutstandingBalance",
+    "bankAccountingUnitReference" : "716325",
+    "loanMaturityDate" : "09-22-2018",
+    "entitlementOptionDefinition" : "entitlementOptionDefinition",
+    "delinquencyCollectionReference" : "779571",
+    "loanOriginationDate" : "09-22-2018",
+    "loanNumber" : "loanNumber"
+  },
+  "restructuringInstanceRecord" : {
+    "restructuringEvaluation" : "restructuringEvaluation",
+    "restructuringWriteDown" : "restructuringWriteDown",
+    "restructuringTask" : "restructuringTask"
+  }
+}

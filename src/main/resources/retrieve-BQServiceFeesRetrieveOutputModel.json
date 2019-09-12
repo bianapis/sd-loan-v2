@@ -1,0 +1,59 @@
+{
+  "serviceFeesInstanceReport" : {
+    "serviceFeesInstanceReport" : {},
+    "serviceFeesInstanceReportType" : "serviceFeesInstanceReportType",
+    "serviceFeesInstanceReportParameters" : "serviceFeesInstanceReportParameters",
+    "serviceFeesInstanceReportRecord" : {}
+  },
+  "serviceFeesInstanceAnalysis" : {
+    "serviceFeesInstanceAnalysisReport" : {},
+    "serviceFeesInstanceAnalysisParameters" : "serviceFeesInstanceAnalysisParameters",
+    "serviceFeesInstanceAnalysisReportType" : "serviceFeesInstanceAnalysisReportType",
+    "serviceFeesInstanceAnalysisRecord" : {}
+  },
+  "serviceFeesRetrieveActionTaskReference" : "SFRATR734772",
+  "serviceFeesRetrieveActionResponse" : "serviceFeesRetrieveActionResponse",
+  "serviceFeesRetrieveActionTaskRecord" : {},
+  "loanFulfillmentArrangementInstanceRecord" : {
+    "associations" : {
+      "associationReference" : "787467",
+      "associationType" : "associationType",
+      "associationObligationEntitlement" : "associationObligationEntitlement"
+    },
+    "productInstanceReference" : "728174",
+    "restrictionOptionSetting" : "restrictionOptionSetting",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "entitlementOptionSetting" : "entitlementOptionSetting",
+    "restrictionOptionDefinition" : "restrictionOptionDefinition",
+    "loanOutstandingBalance" : "loanOutstandingBalance",
+    "customerReference" : "788402",
+    "loanAccessTerms" : "loanAccessTerms",
+    "entitlementOptionDefinition" : "entitlementOptionDefinition",
+    "loanNumber" : "loanNumber",
+    "customerCommentary" : "customerCommentary"
+  },
+  "serviceFeesInstanceRecord" : {
+    "feeConfigurationProfile" : {
+      "feeDefinition" : "feeDefinition",
+      "feeType" : "feeType"
+    },
+    "feeApplicationRecord" : {
+      "feeAccrualAmount" : {
+        "accrualFeeType" : "accrualFeeType",
+        "accrualFeeCharge" : "USD 250"
+      },
+      "feeTransaction" : {
+        "transactionFeeCharge" : "USD 250",
+        "transactionDescription" : "transactionDescription",
+        "transactionFeeType" : "transactionFeeType"
+      },
+      "feeProjectionsandCommitments" : {
+        "projectedTransactionDescription" : "projectedTransactionDescription",
+        "projectedTransactionFeeType" : "projectedTransactionFeeType",
+        "projectedTransactionFeeCharge" : "USD 250"
+      }
+    }
+  }
+}
